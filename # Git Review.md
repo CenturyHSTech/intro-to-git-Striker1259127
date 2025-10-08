@@ -6,11 +6,11 @@ In my words, I think Git is a great way to collaborate with many people at once 
 
 ## What I am curious about
 
-For me, there are quite a few things that I am very curious about. One of those things that I am very curious about is pushing and commiting to the github. Last year, I had joined Github brcause I was part of the Game Design club. The only time I really used Github was mainly for adding basic models to the game we were working on. Now I want to know what it means. Antoerh thing is pulling to the github. Pulling to the github was another thing that I was very curious about. Many other people were also working and pulling to the github and I was also curious about that so I want to learn that too.
+For me, there are quite a few things I am very curious about. One of those things that I am very curious about is pushing and commiting to the github. Last year, I had joined Github brcause I was part of the Game Design club. The only time I really used Github was mainly for adding basic models to the game we were working on. Now I want to know what it means. Another thing is pulling to the github. Pulling to the github was another thing that I was very curious about. Many other people were also working and pulling to the github and I was also curious about that so I want to learn that too.
 
 ## Key terms and definitions.
 
-Git - a distributed version cobntrol system where people can update, pull, psuh, and fork fifferent repositories
+Git - a distributed version cobntrol system where people can update, pull, psuh, and fork different repositories
 GitHub - a cloud-based platform built on Git that allows developers to store, manage, and share code
 REPO (Repositiry) - The unit that stores all the information within a project
 Cloning - A clone ofg a repository saved to your local computer
